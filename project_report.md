@@ -3,7 +3,7 @@
 ## 1. Introduction
 * **Project Title**: ShopEEZZ — A MERN Stack E-commerce Application
 * **Team Members**: This is a solo project.
-* **Developer**: [Vishal Gudla] — Full Stack Development (Frontend, Backend, Database Design, Deployment)
+* **Developer**: [Sudeeksha Ala] — Full Stack Development (Frontend, Backend, Database Design, Deployment)
 
 ---
 
